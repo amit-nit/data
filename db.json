@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "gjtj",
+      "body": "hth",
+      "author": "amit",
+      "id": 1
+    },
+    {
+      "title": "this is for the title",
+      "body": "this is body",
+      "author": "Sujeet",
+      "id": 2
+    }
+  ]
+}
